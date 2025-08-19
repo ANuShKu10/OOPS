@@ -34,4 +34,3 @@ public class AbstractionClass{
         myDog2.sleep();
     }
 }
-
